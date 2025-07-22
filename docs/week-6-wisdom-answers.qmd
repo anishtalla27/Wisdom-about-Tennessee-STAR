@@ -2,6 +2,10 @@
 title: "Wisdom about Tennessee STAR"
 execute: 
   echo: false
+format:
+  html:
+    theme: cosmo
+    css: center.css
 ---
 
 
